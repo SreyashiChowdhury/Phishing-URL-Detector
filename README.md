@@ -1,2 +1,2 @@
 # Phishing-URL-Detector
-A full-stack web application that detects phishing URLs. Users paste a URL into a web interface and receive a real-time verdict — phishing or legitimate — powered by a machine learning model trained on lexical and host-based URL features.
+A web app where users paste any URL and get an instant risk analysis using heuristic signals (suspicious patterns, IP-based URLs, typosquatting, lookalike domains, etc.), with a clean dashboard showing results.
